@@ -7,4 +7,5 @@ Here's a breakdown of how the model works:
 2. *Data Preprocessing:* The text data is cleaned and formatted for the machine learning model. This may involve removing punctuation, converting text to lowercase, and removing irrelevant words.
 3. *Model Building*  A machine learning model is trained on the labeled data. Common algorithms for this task include Naive Bayes and Support Vector Machines (SVMs).
 4. *Classification:* Once trained, the model can then analyze new emails and SMS messages and predict whether they are spam or not spam.
+
 ![image](https://github.com/SP4567/Deployed_models/assets/92623123/63451e12-8238-4a30-8211-44176d6d1e04)
