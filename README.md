@@ -1,5 +1,7 @@
 # Deployed_models
 This repo contains deployed machine learning and deep learning models.
+
+
 **Email/SMS Spam Classifier**
 The Email/SMS Spam classifier model takes an email or message as an input tokenize it, converts it into the vector form by the process of vectorization and using the vectors tries to predict and classifies whether the email or a sms is spam or not.
 Here's a breakdown of how the model works:
@@ -8,4 +10,6 @@ Here's a breakdown of how the model works:
 3. *Model Building*  A machine learning model is trained on the labeled data. Common algorithms for this task include Naive Bayes and Support Vector Machines (SVMs).
 4. *Classification:* Once trained, the model can then analyze new emails and SMS messages and predict whether they are spam or not spam.
 
-![image](https://github.com/SP4567/Deployed_models/assets/92623123/63451e12-8238-4a30-8211-44176d6d1e04)
+
+![image](https://github.com/SP4567/Deployed_models/assets/92623123/9706b94b-c76f-4e37-99ab-4198441e4c71)
+
