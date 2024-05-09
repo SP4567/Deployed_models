@@ -2,7 +2,7 @@
 This repo contains deployed machine learning and deep learning models.
 
 
-**Email/SMS Spam Classifier**
+# Email/SMS Spam Classifier
 The Email/SMS Spam classifier model takes an email or message as an input tokenize it, converts it into the vector form by the process of vectorization and using the vectors tries to predict and classifies whether the email or a sms is spam or not.
 Here's a breakdown of how the model works:
 1. *Data Collection:*  Training data is collected, which consists of emails and SMS messages that are already labeled as spam or not spam.
