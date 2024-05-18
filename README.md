@@ -36,7 +36,8 @@ Here's a breakdown of the model:
 8. *Continuous Improvement:* Monitor the model's performance over time and update it periodically with new data to ensure accuracy and reliability. Consider retraining the model with updated datasets to incorporate any changes in weather patterns.
    
 
-![image](https://github.com/SP4567/Deployed_models/assets/92623123/53645675-89c1-4df6-976a-77378d55eb3b)
+![image](https://github.com/SP4567/Deployed_models/assets/92623123/1597551e-2bb6-4452-beac-edd66b346bc9)
+
 
 
 
